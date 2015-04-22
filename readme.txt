@@ -33,6 +33,7 @@ Insert the following shortcode into a post/page to create a special Facebook lik
 
 `[fb_like_to_reveal message="your message" url="URL of the resource that you want to give a like"]`
 
+`
 Description of attributes:
 
 "message"
@@ -40,8 +41,11 @@ Description of attributes:
 
 Example:
 
-    `[fb_like_to_reveal]` - creates a like button without a message.
-    `[fb_like_to_reveal message="your message"]` - creates a like button with a message inside the like window
+    [fb_like_to_reveal] - creates a like button without a message.
+    [fb_like_to_reveal message="your message"] - creates a like button with a message inside the like window
+`
+
+For detailed documentation please visit: [Facebook Like to Reveal Documentation](https://www.tipsandtricks-hq.com/facebook-like-to-reveal-wordpress-plugin)
 
 == Installation == 
 
